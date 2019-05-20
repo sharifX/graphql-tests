@@ -19,7 +19,7 @@ The JSON-like query looks like this. GraphQL spec mandates to define the fields 
 ```
 The response will also be a JSON like text. 
 
-Here's a simple [test](requests.py) using Python Requests Module. I am sending a GraphQL query to the datacite API endpoint: https://api.datacite.org/graphql. 
+Here's a simple [test](request.py) using Python Requests Module. I am sending a GraphQL query to the datacite API endpoint: https://api.datacite.org/graphql. 
 
 
 My query looks like this. I am interesting to 
